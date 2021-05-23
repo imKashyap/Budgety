@@ -25,6 +25,7 @@ Following features have been implemented:
 - [x] Add Incomes & Expenses
 - [x] Beautiful UI & UX Designs
 - [x] View percentages for each expenses
+- [x] Delete added Incomes and Expenses
   
 ***
 
