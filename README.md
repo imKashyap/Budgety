@@ -5,6 +5,7 @@
 
 - **Budgty** is a budget calculator application.
 - The app is developed in HTML & CSS only. Bootstrap is used as a framework for CSS.
+- This porject is a part of Javascript course on Udemy by Jonas Schmedtmann.
 - Try the website [here.](https://imkashyap.github.io/Budgety/)
   
   ***
