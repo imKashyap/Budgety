@@ -4,8 +4,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 - **Budgty** is a budget calculator application.
-- The app is developed in HTML & CSS only. Bootstrap is used as a framework for CSS.
-- This porject is a part of Javascript course on Udemy by Jonas Schmedtmann.
+- The app is developed in HTML, CSS & Javascript.
+- This porject is a part of Javascript course on Udemy by *Jonas Schmedtmann*.
 - Try the website [here.](https://imkashyap.github.io/Budgety/)
   
   ***
